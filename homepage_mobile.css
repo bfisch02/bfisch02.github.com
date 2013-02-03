@@ -1,13 +1,45 @@
+
+
 h1 {
 	font-size: 	50px;
+	font-family: Roman;
+	text-align: center;
+	background-color: black;
+	color: white;
 	}
 	
-a {
-	font-size: 25px;
-	color: green;
-	text-decoration: none;
+h3 {
+	font-size: 30px;
+	}
+	
+h6 {
+	font-size: 20px;
+	}
+	
+a, p {
+	font-size: 30px;
+	font-family: Roman;
+	color: black;
+	text-decoration: underline;
 	}
 	
 p {
-	color: red;
+	font-size: 40px;
+	color: blue;
+	text-decoration: none;
+	line-height: 0px;
+	}
+	
+	
+#menu {
+	width: 100 px;
+	font-size: 60 px;
+	float: left;
+	
+	}
+	
+#picture {
+	height: 200px;
+	top: 400px;
+	float: right;
 	}
