@@ -3,8 +3,16 @@ h1 {
 	margin-left: 40%
 	}
 	
-a, p {
-	font-size: 25px;
-	color: blue;
-	text-decoration: none;
+h3 {
+	font-size: 30px;
+	}
 	
+h6 {
+	font-size: 20px;
+	}
+	
+a {
+	font-size: 25px;
+	color: green;
+	text-decoration: none;
+	}
