@@ -3,8 +3,8 @@ h1 {
 	margin-left: 40%
 	}
 	
-a {
+a, p {
 	font-size: 25px;
-	color: black;
+	color: blue;
 	text-decoration: none;
 	
