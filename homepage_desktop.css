@@ -1,6 +1,11 @@
+
+
 h1 {
 	font-size: 	50px;
-	margin-left: 40%
+	font-family: Roman;
+	text-align: center;
+	background-color: black;
+	color: white;
 	}
 	
 h3 {
@@ -11,8 +16,30 @@ h6 {
 	font-size: 20px;
 	}
 	
-a {
-	font-size: 25px;
-	color: green;
+a, p {
+	font-size: 30px;
+	font-family: Roman;
+	color: blue;
+	text-decoration: underline;
+	}
+	
+p {
+	font-size: 40px;
+	color: blue;
 	text-decoration: none;
+	line-height: 0px;
+	}
+	
+	
+#menu {
+	width: 100 px;
+	font-size: 60 px;
+	float: left;
+	
+	}
+	
+#picture {
+	height: 200px;
+	top: 400px;
+	float: right;
 	}
