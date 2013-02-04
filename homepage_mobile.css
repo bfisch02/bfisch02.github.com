@@ -28,6 +28,10 @@ p, li, ul {
 	text-decoration: none;
 }
 	
+#links {
+	font-size: 60px;
+}
+
 #menu {
 	position: absolute;
 	left: 20%;
