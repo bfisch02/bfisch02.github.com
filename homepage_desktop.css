@@ -14,32 +14,38 @@ h3 {
 	font-size: 30px;
 	}
 	
-a, p {
+a {
 	font-size: 30px;
 	font-family: Roman;
 	color: black;
 	text-decoration: underline;
 	}
-	
+
 p {
-	font-size: 40px;
-	color: black;
-	text-decoration: none;
-	line-height: 0px;
-	}
-	
+	font-size: 25px;
+	font-family: Roman;
+}
+
+#bio {
+	text-indent: 2em;
+}
 	
 #menu {
 	position: absolute;
 	left: 20%;
 	top: 30%;
 	font-family:Monaco;
+}
 
-	
-	}
-	
+#links {
+	font-size: 40px;
+	color: black;
+	text-decoration: none;
+	line-height: 0px;
+}
+		
 #picture {
 	position: absolute;
 	left: 65%;
 	top: 25%;
-	}
+}
