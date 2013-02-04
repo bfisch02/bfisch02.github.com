@@ -29,6 +29,13 @@ p, li, ul {
 	text-decoration: none;
 }
 	
+#bio {
+	font-size: 45px;
+	text-align: center;
+	margin-left: 150px;
+	margin-right: 150px;
+	}
+	
 #links {
 	font-size: 60px;
 }

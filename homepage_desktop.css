@@ -33,6 +33,13 @@ p {
 	font-family:Monaco;
 }
 
+#bio {
+	text-align: center;
+	margin-left: 150px;
+	margin-right: 150px;
+	}
+	
+
 #links {
 	font-size: 40px;
 	color: black;
