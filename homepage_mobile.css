@@ -1,6 +1,5 @@
 html {
 	background-color: #33CCFF;
-	position: fixed;
 }
 
 h1  {
@@ -45,5 +44,5 @@ p, li, ul {
 #picture {
 	position: absolute;
 	left: 65%;
-	top: 35%;
+	top: 40%;
 	}
