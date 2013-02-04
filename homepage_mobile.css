@@ -3,7 +3,7 @@ html {
 	}
 
 h1 {
-	font-size: 	50px;
+	font-size: 	200px;
 	font-family: Roman;
 	text-align: center;
 	background-color: black;
@@ -19,14 +19,14 @@ h6 {
 	}
 	
 a, p {
-	font-size: 30px;
+	font-size: 70px;
 	font-family: Roman;
 	color: black;
 	text-decoration: underline;
 	}
 	
 p {
-	font-size: 40px;
+	font-size: 90px;
 	color: black;
 	text-decoration: none;
 	line-height: 0px;
@@ -36,7 +36,7 @@ p {
 #menu {
 	position: absolute;
 	left: 20%;
-	top: 30%;
+	top: 25%;
 	font-family:Monaco;
 
 	
