@@ -31,18 +31,3 @@ p, li, ul {
 #links {
 	font-size: 60px;
 }
-
-#menu {
-	position: absolute;
-	left: 20%;
-	top: 40%;
-	font-family:Monaco;
-
-	
-	}
-	
-#picture {
-	position: absolute;
-	left: 65%;
-	top: 40%;
-	}
