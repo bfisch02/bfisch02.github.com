@@ -26,7 +26,10 @@ p, li, ul {
 	color: black;
 	text-decoration: none;
 }
-	
+
+#links {
+	font-size: 60px;
+}
 	
 #menu {
 	position: absolute;
