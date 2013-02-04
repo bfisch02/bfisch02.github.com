@@ -4,7 +4,7 @@ html {
 
 h1 {
 	font-size: 	50px;
-	font-family: Roman;
+	font-family: "Courier New";
 	text-align: center;
 	background-color: black;
 	color: #33CCFF;
@@ -12,10 +12,6 @@ h1 {
 	
 h3 {
 	font-size: 30px;
-	}
-	
-h6 {
-	font-size: 20px;
 	}
 	
 a, p {
