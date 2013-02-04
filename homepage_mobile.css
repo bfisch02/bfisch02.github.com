@@ -19,6 +19,7 @@ a {
 	font-family: Roman;
 	color: black;
 	text-decoration: underline;
+	text-align: center;
 }
 	
 p, li, ul {
@@ -33,10 +34,10 @@ p, li, ul {
 }
 
 #menu {
-	width: 100px;
+	text-align: center;
 	
 	}
 	
 #picture {
-	width: 100px;
+	text-align: center;
 	}
