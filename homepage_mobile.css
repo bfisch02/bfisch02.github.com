@@ -31,6 +31,9 @@ p, li, ul {
 	
 #bio {
 	font-size: 45px;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
 	}
 	
 #links {
