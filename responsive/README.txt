@@ -1,0 +1,1 @@
+I chose to use the iPhone 4s, and I used a maximum device width of 480px.
